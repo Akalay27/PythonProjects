@@ -1,3 +1,3 @@
 # PythonProjects
 
-Small projects made on my own time
+Small graphical projects mostly using PyGame
